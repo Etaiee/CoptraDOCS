@@ -53,7 +53,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/MANTISS02/coptra-docs/edit/master/',
+            'https://github.com/etaiee/CoptraDocs/edit/main/',
           routeBasePath: '/', // Устанавливаем документацию как корневой маршрут
         },
         blog: {
@@ -65,7 +65,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/MANTISS02/coptra-docs/edit/master/',
+            'https://github.com/etaiee/CoptraDocs/edit/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -224,13 +224,13 @@ const config = {
                 html: `
                   <div class="social-icons">
                     <a href="#" target="_blank" rel="noopener noreferrer" aria-label="VK" class="social-icon">
-                      <img src="/coptra-docs/img/vk.svg" alt="VK" width="16" height="16" />
+                      <img src="/CoptraDocs/img/vk.svg" alt="VK" width="16" height="16" />
                     </a>
                     <a href="#" target="_blank" rel="noopener noreferrer" aria-label="Telegram" class="social-icon">
-                      <img src="/coptra-docs/img/telegram.svg" alt="Telegram" width="16" height="16" />
+                      <img src="/CoptraDocs/img/telegram.svg" alt="Telegram" width="16" height="16" />
                     </a>
                     <a href="#" target="_blank" rel="noopener noreferrer" aria-label="YouTube" class="social-icon">
-                      <img src="/coptra-docs/img/youtube.svg" alt="YouTube" width="16" height="16" />
+                      <img src="/CoptraDocs/img/youtube.svg" alt="YouTube" width="16" height="16" />
                     </a>
                   </div>
                 `,
