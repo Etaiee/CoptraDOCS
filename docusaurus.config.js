@@ -20,17 +20,17 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://mantiss02.github.io',
+  url: 'https://etaiee.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/coptra-docs/',
+  baseUrl: '/CoptraDocs/',
   // Ensure trailing slashes are used consistently
   trailingSlash: true,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'MANTISS02', // Usually your GitHub org/user name.
-  projectName: 'coptra-docs', // Usually your repo name.
+  organizationName: 'Etaiee', // Usually your GitHub org/user name.
+  projectName: 'CoptraDocs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
