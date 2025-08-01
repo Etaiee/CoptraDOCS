@@ -1,0 +1,27 @@
+{
+  "id": "python",
+  "title": "Python",
+  "description": "Программирование дронов с использованием языка Python.",
+  "source": "@site/docs/python.md",
+  "sourceDirName": ".",
+  "slug": "/python",
+  "permalink": "/CoptraDocs/python",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/etaiee/CoptraDocs/edit/main/docs/python.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Coptra Sim",
+    "permalink": "/CoptraDocs/coptra-sim"
+  },
+  "next": {
+    "title": "TRIK Studio",
+    "permalink": "/CoptraDocs/trik-studio"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "coptra-sim",
+  "title": "Coptra Sim",
+  "description": "Симулятор полетов дронов для обучения и тестирования.",
+  "source": "@site/docs/coptra-sim.md",
+  "sourceDirName": ".",
+  "slug": "/coptra-sim",
+  "permalink": "/CoptraDocs/coptra-sim",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/etaiee/CoptraDocs/edit/main/docs/coptra-sim.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Coptra drone control system",
+    "permalink": "/CoptraDocs/coptra-drone-control-system"
+  },
+  "next": {
+    "title": "Python",
+    "permalink": "/CoptraDocs/python"
+  }
+}

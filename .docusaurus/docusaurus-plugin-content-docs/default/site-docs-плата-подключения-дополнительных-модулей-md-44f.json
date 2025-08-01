@@ -1,0 +1,27 @@
+{
+  "id": "плата-подключения-дополнительных-модулей",
+  "title": "Плата подключения дополнительных модулей",
+  "description": "Универсальная плата для подключения различных модулей к дрону.",
+  "source": "@site/docs/плата-подключения-дополнительных-модулей.md",
+  "sourceDirName": ".",
+  "slug": "/плата-подключения-дополнительных-модулей",
+  "permalink": "/CoptraDocs/плата-подключения-дополнительных-модулей",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/etaiee/CoptraDocs/edit/main/docs/плата-подключения-дополнительных-модулей.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Система оптической навигации",
+    "permalink": "/CoptraDocs/система-оптической-навигации"
+  },
+  "next": {
+    "title": "Coptra drone control system",
+    "permalink": "/CoptraDocs/coptra-drone-control-system"
+  }
+}

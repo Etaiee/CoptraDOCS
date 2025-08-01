@@ -1,0 +1,27 @@
+{
+  "id": "fpv-racer",
+  "title": "FPV Racer",
+  "description": "Гоночный FPV дрон для соревнований и скоростных полетов.",
+  "source": "@site/docs/fpv-racer.md",
+  "sourceDirName": ".",
+  "slug": "/fpv-racer",
+  "permalink": "/CoptraDocs/fpv-racer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/etaiee/CoptraDocs/edit/main/docs/fpv-racer.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Агродрон",
+    "permalink": "/CoptraDocs/агродрон"
+  },
+  "next": {
+    "title": "FPV Freestyle",
+    "permalink": "/CoptraDocs/fpv-freestyle"
+  }
+}

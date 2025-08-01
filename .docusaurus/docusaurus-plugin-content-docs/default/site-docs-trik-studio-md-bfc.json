@@ -1,0 +1,27 @@
+{
+  "id": "trik-studio",
+  "title": "TRIK Studio",
+  "description": "Визуальная среда программирования для дронов.",
+  "source": "@site/docs/trik-studio.md",
+  "sourceDirName": ".",
+  "slug": "/trik-studio",
+  "permalink": "/CoptraDocs/trik-studio",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/etaiee/CoptraDocs/edit/main/docs/trik-studio.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python",
+    "permalink": "/CoptraDocs/python"
+  },
+  "next": {
+    "title": "LUA",
+    "permalink": "/CoptraDocs/lua"
+  }
+}

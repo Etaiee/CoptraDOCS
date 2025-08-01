@@ -1,0 +1,27 @@
+{
+  "id": "cargo-max",
+  "title": "Cargo Max",
+  "description": "Тяжелый грузовой дрон для доставки крупных посылок.",
+  "source": "@site/docs/cargo-max.md",
+  "sourceDirName": ".",
+  "slug": "/cargo-max",
+  "permalink": "/CoptraDocs/cargo-max",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/etaiee/CoptraDocs/edit/main/docs/cargo-max.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cargo Pro",
+    "permalink": "/CoptraDocs/cargo-pro"
+  },
+  "next": {
+    "title": "Пульт управления",
+    "permalink": "/CoptraDocs/пульт-управления"
+  }
+}

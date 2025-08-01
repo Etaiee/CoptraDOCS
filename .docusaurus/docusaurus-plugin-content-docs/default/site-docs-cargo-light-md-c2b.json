@@ -1,0 +1,27 @@
+{
+  "id": "cargo-light",
+  "title": "Cargo Light",
+  "description": "Легкий грузовой дрон для доставки небольших посылок.",
+  "source": "@site/docs/cargo-light.md",
+  "sourceDirName": ".",
+  "slug": "/cargo-light",
+  "permalink": "/CoptraDocs/cargo-light",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/etaiee/CoptraDocs/edit/main/docs/cargo-light.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FPV Freestyle",
+    "permalink": "/CoptraDocs/fpv-freestyle"
+  },
+  "next": {
+    "title": "Cargo Pro",
+    "permalink": "/CoptraDocs/cargo-pro"
+  }
+}

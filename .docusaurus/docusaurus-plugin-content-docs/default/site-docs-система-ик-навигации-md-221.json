@@ -1,0 +1,27 @@
+{
+  "id": "система-ик-навигации",
+  "title": "Система ИК навигации",
+  "description": "Система навигации на основе инфракрасных датчиков.",
+  "source": "@site/docs/система-ик-навигации.md",
+  "sourceDirName": ".",
+  "slug": "/система-ик-навигации",
+  "permalink": "/CoptraDocs/система-ик-навигации",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/etaiee/CoptraDocs/edit/main/docs/система-ик-навигации.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Пульт управления",
+    "permalink": "/CoptraDocs/пульт-управления"
+  },
+  "next": {
+    "title": "Система УЗ навигации",
+    "permalink": "/CoptraDocs/система-уз-навигации"
+  }
+}

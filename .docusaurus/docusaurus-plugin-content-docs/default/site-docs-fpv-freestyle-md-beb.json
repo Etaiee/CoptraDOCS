@@ -1,0 +1,27 @@
+{
+  "id": "fpv-freestyle",
+  "title": "FPV Freestyle",
+  "description": "Дрон для выполнения акробатических трюков и съемки динамичного видео.",
+  "source": "@site/docs/fpv-freestyle.md",
+  "sourceDirName": ".",
+  "slug": "/fpv-freestyle",
+  "permalink": "/CoptraDocs/fpv-freestyle",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/etaiee/CoptraDocs/edit/main/docs/fpv-freestyle.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FPV Racer",
+    "permalink": "/CoptraDocs/fpv-racer"
+  },
+  "next": {
+    "title": "Cargo Light",
+    "permalink": "/CoptraDocs/cargo-light"
+  }
+}

@@ -1,0 +1,537 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "237": [
+      237
+    ],
+    "489": [
+      741,
+      489
+    ],
+    "562": [
+      61,
+      401,
+      869,
+      562
+    ],
+    "741": [
+      489,
+      741
+    ],
+    "772": [
+      809,
+      772
+    ],
+    "809": [
+      772,
+      809
+    ],
+    "17896441": [
+      562,
+      869,
+      401
+    ],
+    "31354026": [
+      571
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "138e0e15": [
+      921
+    ],
+    "1a4e3797": [
+      869,
+      138
+    ],
+    "1d98cab8": [
+      773
+    ],
+    "1f391b9e": [
+      562,
+      869,
+      61
+    ],
+    "215c24a1": [
+      228
+    ],
+    "22108c2a": [
+      636
+    ],
+    "298844e1": [
+      18
+    ],
+    "36a3aed3": [
+      429
+    ],
+    "393be207": [
+      134
+    ],
+    "40e00e8b": [
+      99
+    ],
+    "42b8b1d6": [
+      290
+    ],
+    "44f2813f": [
+      497
+    ],
+    "5cbfd404": [
+      307
+    ],
+    "5d67dd8d": [
+      421
+    ],
+    "5e95c892": [
+      647
+    ],
+    "63d19d9d": [
+      351
+    ],
+    "883764ae": [
+      673
+    ],
+    "9206e916": [
+      551
+    ],
+    "a131e4d8": [
+      606
+    ],
+    "a564181a": [
+      610
+    ],
+    "a7456010": [
+      235
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "b2ff206e": [
+      62
+    ],
+    "beb8974d": [
+      438
+    ],
+    "bfc49675": [
+      31
+    ],
+    "c2b88e55": [
+      513
+    ],
+    "c377a04b": [
+      361
+    ],
+    "e9ff536b": [
+      309
+    ],
+    "ee24b232": [
+      396
+    ],
+    "styles": [
+      48,
+      61,
+      138,
+      354,
+      401,
+      562,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "18": {
+      "js": [
+        {
+          "file": "assets/js/298844e1.df69fbab.js",
+          "hash": "4e9769a15812f8d7",
+          "publicPath": "/CoptraDocs/assets/js/298844e1.df69fbab.js"
+        }
+      ]
+    },
+    "31": {
+      "js": [
+        {
+          "file": "assets/js/bfc49675.0d6040a6.js",
+          "hash": "b0ba94ec8ef62ce1",
+          "publicPath": "/CoptraDocs/assets/js/bfc49675.0d6040a6.js"
+        }
+      ]
+    },
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.2f6d355e.js",
+          "hash": "4930cb465c9ba9dc",
+          "publicPath": "/CoptraDocs/assets/js/a94703ab.2f6d355e.js"
+        }
+      ]
+    },
+    "61": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.6ecbaa07.js",
+          "hash": "6dbd5af988b048dc",
+          "publicPath": "/CoptraDocs/assets/js/1f391b9e.6ecbaa07.js"
+        }
+      ]
+    },
+    "62": {
+      "js": [
+        {
+          "file": "assets/js/b2ff206e.494942c7.js",
+          "hash": "a26ed08fe0a3b05a",
+          "publicPath": "/CoptraDocs/assets/js/b2ff206e.494942c7.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.089d0aa2.js",
+          "hash": "e358da2b60ec4bf4",
+          "publicPath": "/CoptraDocs/assets/js/a7bd4aaa.089d0aa2.js"
+        }
+      ]
+    },
+    "99": {
+      "js": [
+        {
+          "file": "assets/js/40e00e8b.13bfc3e0.js",
+          "hash": "f4947cfa3cefae39",
+          "publicPath": "/CoptraDocs/assets/js/40e00e8b.13bfc3e0.js"
+        }
+      ]
+    },
+    "134": {
+      "js": [
+        {
+          "file": "assets/js/393be207.a4ebffff.js",
+          "hash": "76c6bf0a1ee51dc0",
+          "publicPath": "/CoptraDocs/assets/js/393be207.a4ebffff.js"
+        }
+      ]
+    },
+    "138": {
+      "js": [
+        {
+          "file": "assets/js/1a4e3797.80d06008.js",
+          "hash": "504b80d2dd7fc7d9",
+          "publicPath": "/CoptraDocs/assets/js/1a4e3797.80d06008.js"
+        }
+      ]
+    },
+    "228": {
+      "js": [
+        {
+          "file": "assets/js/215c24a1.38e707da.js",
+          "hash": "1169e092f14c6b7c",
+          "publicPath": "/CoptraDocs/assets/js/215c24a1.38e707da.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.4caddb47.js",
+          "hash": "92247027cac8ecdf",
+          "publicPath": "/CoptraDocs/assets/js/a7456010.4caddb47.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.7d62c1c1.js",
+          "hash": "f882250918f5575d",
+          "publicPath": "/CoptraDocs/assets/js/237.7d62c1c1.js"
+        }
+      ]
+    },
+    "290": {
+      "js": [
+        {
+          "file": "assets/js/42b8b1d6.1511d089.js",
+          "hash": "5d880c49f251e368",
+          "publicPath": "/CoptraDocs/assets/js/42b8b1d6.1511d089.js"
+        }
+      ]
+    },
+    "307": {
+      "js": [
+        {
+          "file": "assets/js/5cbfd404.b53317ad.js",
+          "hash": "b0fc8559696382d9",
+          "publicPath": "/CoptraDocs/assets/js/5cbfd404.b53317ad.js"
+        }
+      ]
+    },
+    "309": {
+      "js": [
+        {
+          "file": "assets/js/e9ff536b.24401f9c.js",
+          "hash": "1f9a9d4fefe9c2bf",
+          "publicPath": "/CoptraDocs/assets/js/e9ff536b.24401f9c.js"
+        }
+      ]
+    },
+    "351": {
+      "js": [
+        {
+          "file": "assets/js/63d19d9d.22a515f2.js",
+          "hash": "feafb0de3b68db98",
+          "publicPath": "/CoptraDocs/assets/js/63d19d9d.22a515f2.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.ad946a95.js",
+          "hash": "81b885e6dc840568",
+          "publicPath": "/CoptraDocs/assets/js/runtime~main.ad946a95.js"
+        }
+      ]
+    },
+    "361": {
+      "js": [
+        {
+          "file": "assets/js/c377a04b.f7061fef.js",
+          "hash": "98d215205700d86c",
+          "publicPath": "/CoptraDocs/assets/js/c377a04b.f7061fef.js"
+        }
+      ]
+    },
+    "396": {
+      "js": [
+        {
+          "file": "assets/js/ee24b232.0e137fa3.js",
+          "hash": "1080c7ee2e3b1082",
+          "publicPath": "/CoptraDocs/assets/js/ee24b232.0e137fa3.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.95551e0d.js",
+          "hash": "abf5acff9d2d9718",
+          "publicPath": "/CoptraDocs/assets/js/17896441.95551e0d.js"
+        }
+      ]
+    },
+    "421": {
+      "js": [
+        {
+          "file": "assets/js/5d67dd8d.fac22225.js",
+          "hash": "a05197a6f2e815a7",
+          "publicPath": "/CoptraDocs/assets/js/5d67dd8d.fac22225.js"
+        }
+      ]
+    },
+    "429": {
+      "js": [
+        {
+          "file": "assets/js/36a3aed3.30bdff19.js",
+          "hash": "d9ce1012fb015ee4",
+          "publicPath": "/CoptraDocs/assets/js/36a3aed3.30bdff19.js"
+        }
+      ]
+    },
+    "438": {
+      "js": [
+        {
+          "file": "assets/js/beb8974d.adc00a51.js",
+          "hash": "8c57234c4be0bf8f",
+          "publicPath": "/CoptraDocs/assets/js/beb8974d.adc00a51.js"
+        }
+      ]
+    },
+    "489": {
+      "js": [
+        {
+          "file": "assets/js/489.09674958.js",
+          "hash": "84dd1c42c0f3dfd1",
+          "publicPath": "/CoptraDocs/assets/js/489.09674958.js"
+        }
+      ]
+    },
+    "497": {
+      "js": [
+        {
+          "file": "assets/js/44f2813f.0de142c1.js",
+          "hash": "8572dd98c8d61495",
+          "publicPath": "/CoptraDocs/assets/js/44f2813f.0de142c1.js"
+        }
+      ]
+    },
+    "513": {
+      "js": [
+        {
+          "file": "assets/js/c2b88e55.77bffe2d.js",
+          "hash": "e33f5f79de337b7e",
+          "publicPath": "/CoptraDocs/assets/js/c2b88e55.77bffe2d.js"
+        }
+      ]
+    },
+    "551": {
+      "js": [
+        {
+          "file": "assets/js/9206e916.588322e7.js",
+          "hash": "e737d51f48fb0677",
+          "publicPath": "/CoptraDocs/assets/js/9206e916.588322e7.js"
+        }
+      ]
+    },
+    "562": {
+      "js": [
+        {
+          "file": "assets/js/562.8c475833.js",
+          "hash": "0129575e3c9f3ed6",
+          "publicPath": "/CoptraDocs/assets/js/562.8c475833.js"
+        }
+      ]
+    },
+    "571": {
+      "js": [
+        {
+          "file": "assets/js/31354026.2ee483e6.js",
+          "hash": "a8bb3b153e711acd",
+          "publicPath": "/CoptraDocs/assets/js/31354026.2ee483e6.js"
+        }
+      ]
+    },
+    "606": {
+      "js": [
+        {
+          "file": "assets/js/a131e4d8.34808600.js",
+          "hash": "eadb41142d1c84c4",
+          "publicPath": "/CoptraDocs/assets/js/a131e4d8.34808600.js"
+        }
+      ]
+    },
+    "610": {
+      "js": [
+        {
+          "file": "assets/js/a564181a.1197401a.js",
+          "hash": "ac3f8c8c574aad5d",
+          "publicPath": "/CoptraDocs/assets/js/a564181a.1197401a.js"
+        }
+      ]
+    },
+    "636": {
+      "js": [
+        {
+          "file": "assets/js/22108c2a.046b788c.js",
+          "hash": "e109f0ce11a1874c",
+          "publicPath": "/CoptraDocs/assets/js/22108c2a.046b788c.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.9b142329.js",
+          "hash": "2b68a43772b8f7d8",
+          "publicPath": "/CoptraDocs/assets/js/5e95c892.9b142329.js"
+        }
+      ]
+    },
+    "673": {
+      "js": [
+        {
+          "file": "assets/js/883764ae.e3f98420.js",
+          "hash": "c4407c83959d426c",
+          "publicPath": "/CoptraDocs/assets/js/883764ae.e3f98420.js"
+        }
+      ]
+    },
+    "741": {
+      "js": [
+        {
+          "file": "assets/js/741.ed635456.js",
+          "hash": "4339c25bcdd8639a",
+          "publicPath": "/CoptraDocs/assets/js/741.ed635456.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.34ec6767.js",
+          "hash": "0e68276c32c8efa0",
+          "publicPath": "/CoptraDocs/assets/js/aba21aa0.34ec6767.js"
+        }
+      ]
+    },
+    "772": {
+      "js": [
+        {
+          "file": "assets/js/772.2e884188.js",
+          "hash": "522038992818b74a",
+          "publicPath": "/CoptraDocs/assets/js/772.2e884188.js"
+        }
+      ]
+    },
+    "773": {
+      "js": [
+        {
+          "file": "assets/js/1d98cab8.cdd52b30.js",
+          "hash": "df2e72b18e9fa7b7",
+          "publicPath": "/CoptraDocs/assets/js/1d98cab8.cdd52b30.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.41650d3e.js",
+          "hash": "ebc7266f1484f9a6",
+          "publicPath": "/CoptraDocs/assets/js/main.41650d3e.js"
+        }
+      ]
+    },
+    "809": {
+      "js": [
+        {
+          "file": "assets/js/809.721b1499.js",
+          "hash": "115ec721749b9d35",
+          "publicPath": "/CoptraDocs/assets/js/809.721b1499.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.7c86b516.css",
+          "hash": "48ca1ec5e18484c0",
+          "publicPath": "/CoptraDocs/assets/css/styles.7c86b516.css"
+        }
+      ]
+    },
+    "921": {
+      "js": [
+        {
+          "file": "assets/js/138e0e15.901bf3b1.js",
+          "hash": "a4eca4ab66153909",
+          "publicPath": "/CoptraDocs/assets/js/138e0e15.901bf3b1.js"
+        }
+      ]
+    }
+  }
+}

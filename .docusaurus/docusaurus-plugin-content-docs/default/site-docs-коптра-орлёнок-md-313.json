@@ -1,0 +1,27 @@
+{
+  "id": "коптра-орлёнок",
+  "title": "Коптра Орлёнок",
+  "description": "Учебный дрон для начинающих пилотов.",
+  "source": "@site/docs/коптра-орлёнок.md",
+  "sourceDirName": ".",
+  "slug": "/коптра-орлёнок",
+  "permalink": "/CoptraDocs/коптра-орлёнок",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/etaiee/CoptraDocs/edit/main/docs/коптра-орлёнок.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Безопасность",
+    "permalink": "/CoptraDocs/безопасность"
+  },
+  "next": {
+    "title": "Агродрон",
+    "permalink": "/CoptraDocs/агродрон"
+  }
+}

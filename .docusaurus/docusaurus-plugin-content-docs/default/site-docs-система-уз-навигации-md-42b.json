@@ -1,0 +1,27 @@
+{
+  "id": "система-уз-навигации",
+  "title": "Система УЗ навигации",
+  "description": "Система навигации на основе ультразвуковых датчиков.",
+  "source": "@site/docs/система-уз-навигации.md",
+  "sourceDirName": ".",
+  "slug": "/система-уз-навигации",
+  "permalink": "/CoptraDocs/система-уз-навигации",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/etaiee/CoptraDocs/edit/main/docs/система-уз-навигации.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Система ИК навигации",
+    "permalink": "/CoptraDocs/система-ик-навигации"
+  },
+  "next": {
+    "title": "Система оптической навигации",
+    "permalink": "/CoptraDocs/система-оптической-навигации"
+  }
+}

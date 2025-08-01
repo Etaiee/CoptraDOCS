@@ -1,0 +1,27 @@
+{
+  "id": "система-оптической-навигации",
+  "title": "Система оптической навигации",
+  "description": "Система навигации на основе компьютерного зрения.",
+  "source": "@site/docs/система-оптической-навигации.md",
+  "sourceDirName": ".",
+  "slug": "/система-оптической-навигации",
+  "permalink": "/CoptraDocs/система-оптической-навигации",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/etaiee/CoptraDocs/edit/main/docs/система-оптической-навигации.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Система УЗ навигации",
+    "permalink": "/CoptraDocs/система-уз-навигации"
+  },
+  "next": {
+    "title": "Плата подключения дополнительных модулей",
+    "permalink": "/CoptraDocs/плата-подключения-дополнительных-модулей"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "методики-и-кейсы",
+  "title": "Методики и кейсы",
+  "description": "Практические примеры использования дронов в различных областях.",
+  "source": "@site/docs/методики-и-кейсы.md",
+  "sourceDirName": ".",
+  "slug": "/методики-и-кейсы",
+  "permalink": "/CoptraDocs/методики-и-кейсы",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/etaiee/CoptraDocs/edit/main/docs/методики-и-кейсы.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Загрузки",
+    "permalink": "/CoptraDocs/загрузки"
+  }
+}

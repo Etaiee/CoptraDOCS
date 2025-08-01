@@ -1,0 +1,24 @@
+{
+  "id": "index",
+  "title": "Документация Коптра",
+  "description": "Добро пожаловать в официальную документацию платформы Коптра — комплексного решения для работы с дронами различного назначения.",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/CoptraDocs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/etaiee/CoptraDocs/edit/main/docs/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Безопасность",
+    "permalink": "/CoptraDocs/безопасность"
+  }
+}

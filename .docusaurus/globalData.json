@@ -1,0 +1,138 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/CoptraDocs/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/CoptraDocs/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "агродрон",
+              "path": "/CoptraDocs/агродрон",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "база-знаний",
+              "path": "/CoptraDocs/база-знаний",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "безопасность",
+              "path": "/CoptraDocs/безопасность",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "загрузки",
+              "path": "/CoptraDocs/загрузки",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "коптра-орлёнок",
+              "path": "/CoptraDocs/коптра-орлёнок",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "методики-и-кейсы",
+              "path": "/CoptraDocs/методики-и-кейсы",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "плата-подключения-дополнительных-модулей",
+              "path": "/CoptraDocs/плата-подключения-дополнительных-модулей",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "пульт-управления",
+              "path": "/CoptraDocs/пульт-управления",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "система-ик-навигации",
+              "path": "/CoptraDocs/система-ик-навигации",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "система-оптической-навигации",
+              "path": "/CoptraDocs/система-оптической-навигации",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "система-уз-навигации",
+              "path": "/CoptraDocs/система-уз-навигации",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cargo-light",
+              "path": "/CoptraDocs/cargo-light",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cargo-max",
+              "path": "/CoptraDocs/cargo-max",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cargo-pro",
+              "path": "/CoptraDocs/cargo-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "coptra-drone-control-system",
+              "path": "/CoptraDocs/coptra-drone-control-system",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "coptra-sim",
+              "path": "/CoptraDocs/coptra-sim",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "fpv-freestyle",
+              "path": "/CoptraDocs/fpv-freestyle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "fpv-racer",
+              "path": "/CoptraDocs/fpv-racer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/CoptraDocs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "lua",
+              "path": "/CoptraDocs/lua",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python",
+              "path": "/CoptraDocs/python",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "trik-studio",
+              "path": "/CoptraDocs/trik-studio",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/CoptraDocs/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

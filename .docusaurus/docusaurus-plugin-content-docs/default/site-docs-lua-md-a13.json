@@ -1,0 +1,27 @@
+{
+  "id": "lua",
+  "title": "LUA",
+  "description": "Программирование дронов с использованием языка Lua.",
+  "source": "@site/docs/lua.md",
+  "sourceDirName": ".",
+  "slug": "/lua",
+  "permalink": "/CoptraDocs/lua",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/etaiee/CoptraDocs/edit/main/docs/lua.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TRIK Studio",
+    "permalink": "/CoptraDocs/trik-studio"
+  },
+  "next": {
+    "title": "База знаний",
+    "permalink": "/CoptraDocs/база-знаний"
+  }
+}

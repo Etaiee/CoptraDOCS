@@ -1,0 +1,27 @@
+{
+  "id": "загрузки",
+  "title": "Загрузки",
+  "description": "Раздел для скачивания программного обеспечения и документации.",
+  "source": "@site/docs/загрузки.md",
+  "sourceDirName": ".",
+  "slug": "/загрузки",
+  "permalink": "/CoptraDocs/загрузки",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/etaiee/CoptraDocs/edit/main/docs/загрузки.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "База знаний",
+    "permalink": "/CoptraDocs/база-знаний"
+  },
+  "next": {
+    "title": "Методики и кейсы",
+    "permalink": "/CoptraDocs/методики-и-кейсы"
+  }
+}
