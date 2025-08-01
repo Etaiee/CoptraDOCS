@@ -316,22 +316,6 @@ body {
   height: 24px;
 }
 
-/* Стиль для кнопки Войти */
-.navbar__items--right .button.button--secondary.button--sm {
-  border-radius: var(--border-radius);
-  font-weight: var(--font-weight-medium);
-  margin-left: var(--spacing-xsmall); /* Уменьшен отступ */
-  padding: var(--spacing-xsmall) var(--spacing-medium);
-  height: 40px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: var(--font-size-header);
-  background-color: var(--color-primary);
-  color: var(--color-text-light);
-  border: none;
-}
-
 .navbar__items--right .button.button--secondary.button--sm:hover {
   background-color: var(--color-primary-light);
 }
